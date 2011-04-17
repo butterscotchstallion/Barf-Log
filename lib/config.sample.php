@@ -11,9 +11,9 @@
 error_reporting(E_ALL | E_STRICT);
 ini_set('display_errors', true);
 
-define('DB_USER',     'wwpexample');
-define('DB_PASSWORD', 'dmDcqbRc7FCKWlOwF1G4');
-define('DB_NAME',     'wwp_example');
+define('DB_USER',     '');
+define('DB_PASSWORD', '');
+define('DB_NAME',     '');
 define('DB_HOST',     '127.0.0.1');
 
 /**
